@@ -14,3 +14,5 @@ https://arxiv.org/abs/2002.02497
 https://arxiv.org/abs/2004.12823
 
 The data source of the project is https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+Please, access to "COVID-19 Detection from X-Ray Images.ipynb" file to have see the procedure followed.
