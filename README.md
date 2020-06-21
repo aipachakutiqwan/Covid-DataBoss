@@ -7,4 +7,10 @@
 
 ## Covid-DataBoss Project Overview
 
-Welcome to the Covid-DataBoss project, this project classify pneumonia images from Covid-19 pacients
+Welcome to the Covid-DataBoss project, this project classify Pneumonia images from Covid-19 pacients, it is based in the following previous work.
+
+https://arxiv.org/abs/2002.02497
+
+https://arxiv.org/abs/2004.12823
+
+The data source of the project is https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
