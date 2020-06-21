@@ -5,7 +5,7 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 
-## Covid-DataBoss Project Overview
+## MIT Covid-19 Challenge: Covid-DataBoss Project Overview
 
 Welcome to the Covid-DataBoss project, this project classify Pneumonia images from Covid-19 pacients, it is based in the following previous work.
 
